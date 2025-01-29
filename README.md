@@ -9,7 +9,10 @@ paper([arxiv](https://arxiv.org/abs/2411.04714)) | [dataset](#dataset)\
 2. [Directory Structure](#directory-structure)
 3. [Commands](#commands)
 4. [Dataset](#dataset)
-5. [Docker Usage](#docker-usage)
+5. [Pretrained Model](#pretrained-model)
+6. [Docker Usage](#docker-usage)
+7. [License](#license)
+8. [Citation](#citation)
 
 ## Dependencies
 The dependencies required to run this project are as follows:
