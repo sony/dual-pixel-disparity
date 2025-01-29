@@ -415,7 +415,7 @@ def add_dual_pixel_args(parser):
                         help='output other mono image')
     parser.add_argument('--use-executable',
                         action="store_true",
-                        default=False,
+                        default=True,
                         help='Use executable for DPMatching (default: false)')
 
 def add_debug_args(parser):
