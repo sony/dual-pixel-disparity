@@ -86,6 +86,8 @@ python main.py --evaluate ../data/model/costdcnet-based.tar --data-type cdp --ne
 For evaluation, please place `dp_matching` in `./dual-pixel-disparity/utils/`. It can be downloaded from the following link:
 [dp_matching](https://sonyjpn.sharepoint.com/:f:/r/sites/S110-dual-pixel-disparity/Shared%20Documents/dp_matching?csf=1&web=1&e=ZIm2xf)
 
+*Access to data requires a Microsoft account. After creating your Microsoft account, please contact [us](mailto:Teppei.Kurita@sony.com;Yuhi.Kondo@sony.com) with your Microsoft E-mail address to grant access. The access right is revoked after a certain period of time , and your account information is not retained.
+
 `dp_matching` is an executable file.
 
 # License
