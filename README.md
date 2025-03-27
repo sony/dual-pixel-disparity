@@ -1,7 +1,7 @@
 # Revisiting Disparity from Dual-Pixel Images: Physics-Informed Lightweight Depth Estimation (WACV 2025)
 Teppei Kurita, Yuhi Kondo, Legong Sun, Takayuki Sasaki, Sho Nitta, Yasuhiro Hashimoto, Yoshinori Muramatsu and Yusuke Moriuchi\
 Sony Semiconductor Solutions Corporation, Tokyo, Japan\
-paper([arxiv](https://arxiv.org/abs/2411.04714)) | [dataset](#dataset)\
+paper([arxiv](https://arxiv.org/abs/2411.04714))/[cvf](https://openaccess.thecvf.com/content/WACV2025/html/Kurita_Revisiting_Disparity_from_Dual-Pixel_Images_Physics-Informed_Lightweight_Depth_Estimation_WACV_2025_paper.html) | [dataset](#dataset)\
 ![teaser_image](images/teaser1.jpg)
 
 ## Contents
